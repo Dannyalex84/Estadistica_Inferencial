@@ -1,0 +1,131 @@
+Estadística inferencial vs Descriptiva
+Descriptiva:
+Parte de la estadística que arregla los datos de forma que puedan ser analizados e interpretados. No ayuda a entender los datos, cómo se están comportando en el presente.
+
+Nos ayuda a determinar:
+
+Tendencia central de una variable
+La variabilidad de una variable.
+La distribucipon de una variable.
+Inferencial
+Parte de la estadística que busca predecir o deducir características o resultados esperados de una población, basado en los datos obtenidos de una muestra de esa población. Vamos a sacar inferencias , deducciones o predecir .
+
+Nos ayuda a determinar:
+
+Muestreo.
+Intervalos de confianza.
+Validación de hipótesis.
+Evitar sesgos.
+Inferencia estadística
+Conclusiones que se obtienen sobre los parámetros de la población de datos
+Estudio del grado de fiabilidad de los resultados extraídos del estudio.
+Uso en Machine Learning
+Tanto en un análisis como en un modelo predictivo, la estadística inferencial servirá para:
+
+Entender la distribución de nuestros datos
+Crear y validar hipótesis.
+Hacer experimentos.
+Elegir los modelos predictivos adecuados según los datos.
+
+Los estadísticos inferenciales principales son aquellos que se utilizan con mayor frecuencia en la estadística inferencial. Algunos de los estadísticos inferenciales principales incluyen:
+
+Estimadores
+
+son funciones matemáticas de los datos de la muestra que se utilizan para estimar los valores de los parámetros desconocidos de la población.
+Intervalos de confianza
+
+son un rango de valores dentro del cual se espera que el valor verdadero del parámetro de la población se encuentre con un cierto grado de confianza.
+Test de hipótesis
+
+son procedimientos estadísticos que se utilizan para determinar si hay suficiente evidencia en los datos para rechazar una hipótesis nula (hipótesis de que no hay diferencia o cambio) a favor de una hipótesis alternativa (hipótesis de que hay una diferencia o cambio).
+P-valor:
+
+es un número que se utiliza para medir la probabilidad de obtener un resultado igual o más extremo que el obtenido en una muestra, bajo la hipótesis nula.
+Estadísticos de prueba:
+
+son funciones matemáticas de los datos de la muestra que se utilizan para determinar si hay suficiente evidencia para rechazar o no una hipótesis nula
+Es importante mencionar que estos estadísticos inferenciales son solo una pequeña parte de los estadísticos inferenciales existentes y deben utilizarse en función del contexto y los datos disponibles.
+
+
+Los estadísticos inferenciales principales son aquellos que se utilizan con mayor frecuencia en la estadística inferencial. Algunos de los estadísticos inferenciales principales incluyen:
+
+Estimadores
+
+son funciones matemáticas de los datos de la muestra que se utilizan para estimar los valores de los parámetros desconocidos de la población.
+Intervalos de confianza
+
+son un rango de valores dentro del cual se espera que el valor verdadero del parámetro de la población se encuentre con un cierto grado de confianza.
+Test de hipótesis
+
+son procedimientos estadísticos que se utilizan para determinar si hay suficiente evidencia en los datos para rechazar una hipótesis nula (hipótesis de que no hay diferencia o cambio) a favor de una hipótesis alternativa (hipótesis de que hay una diferencia o cambio).
+P-valor:
+
+es un número que se utiliza para medir la probabilidad de obtener un resultado igual o más extremo que el obtenido en una muestra, bajo la hipótesis nula.
+Estadísticos de prueba:
+
+son funciones matemáticas de los datos de la muestra que se utilizan para determinar si hay suficiente evidencia para rechazar o no una hipótesis nula
+Es importante mencionar que estos estadísticos inferenciales son solo una pequeña parte de los estadísticos inferenciales existentes y deben utilizarse en función del contexto y los datos disponibles.
+
+
+Estadísticos principales
+Experimentos
+Experimento aleatorio:
+Es aquél en el que si lo repetimos con las mismas condiciones iniciales no garantiza los mismos resultados.
+Al lanzar una moneda no sabemos si saldrá cara o cruz.
+
+Experimento deterministico:
+Es aquél en que si se repiten las mismas condiciones iniciales se garantiza el mismo resultado.
+Un móvil que circula a una velocidad constante durante un determinado tiempo, recorre siempre el mismo espacio.
+
+Población y muestra:
+La muestra es un subconjunto de datos perteneciente a una población y debe cumplir las siguientes condiciones:
+
+Número suficiente de registros para ser estadísticamente significativo.
+Representación no sesgada de la información total.
+Evento
+Cada uno de los posibles resultados de un experimento.
+
+Variables
+Característica que puede obtener diferentes valores.
+
+Cualitativas: atributos categóricos (no medibles). Por ejemplo, color de cabello
+Cuantitativas: números (medibles), pueden ser discretas o continuas. Por ejemplo, altura, cantidad de hijos
+Probabilidad
+Mida qué tan probable es que ocurra un evento.
+
+Una población se considera normal cuando se distribuye de acuerdo con una distribución normal.
+La distribución normal es una distribución continua de probabilidad que se caracteriza por tener una media, una mediana y una moda iguales, y una forma que se asemeja a una campana.
+Es también conocida como distribución gaussiana o distribución de campana de Gauss.
+
+La distribución normal es una de las distribuciones de probabilidad más importantes y ampliamente utilizadas en estadística, ya que muchas variables continuas en la naturaleza y en la investigación científica siguen una distribución normal.
+Algunos ejemplos de poblaciones que pueden seguir una distribución normal incluyen altura, peso, inteligencia, tiempo de reacción, entre otros.
+
+Sin embargo, no todas las poblaciones siguen una distribución normal.
+Por ejemplo, algunas variables como la edad, el ingreso, el precio de un activo financiero, entre otros, no siempre siguen una distribución normal. En estos casos, se deben utilizar otros métodos estadísticos para analizar los datos.
+
+Algunos ejemplos de variables que pueden seguir una distribución normal incluyen:
+
+Altura de las personas: Es común que la altura de las personas siga una distribución normal, con una media cercana a 1.75 metros para hombres y 1.62 metros para mujeres.
+
+Peso de las personas: El peso de las personas también puede seguir una distribución normal, con una media y mediana cercanas a 75 kg para hombres y 60 kg para mujeres.
+
+Puntuaciones en un examen: Las puntuaciones en un examen también pueden seguir una distribución normal, con una media y mediana cercanas a 70 y una desviación estándar cercana a 10.
+
+Tiempo de reacción: El tiempo de reacción a un estímulo también puede seguir una distribución normal, con una media y mediana cercanas a 200 milisegundos y una desviación estándar cercana a 50 milisegundos.
+
+Mediciones de laboratorio: Muchas mediciones de laboratorio como las concentraciones de una sustancia, también pueden seguir una distribución normal.
+
+Es importante mencionar que para poder afirmar que una variable sigue una distribución normal es necesario realizar pruebas estadísticas para comprobarlo.
+
+Muestreo:
+• Técnica para la selección de una muestra.
+• Se obtiene a partir de una población estadística.
+• La selección tiene que ser aleatoria y se espera que sus propiedades sean extrapolables a la población.
+
+**Tipos de muestreos **
+• **Aleatorio simple: **Método de selección de ciertas unidades sacadas de una población de manera que cada una de las muestras tiene la misma probabilidad de ser elegida. Ejemplo: lotería.
+• Sistemático: Método de selección de ciertas unidades al azar y, a continuación, se eligen el resto siguiendo intervalos regulares. Ejemplo: dar un premio cada cien personas que hagan una inscripción hasta llegar a un total de mil inscritos.
+• Estratificado: Método de selección de ciertas unidades por segmentos exclusivos y homogéneos y, a continuación, se elige una muestra aleatoria simple de cada segmento. Ejemplo: división por edades.
+
+Teorema del límite central
+Teoría estadística que establece que, dada una muestra aleatoria suficientemente grande de la población, la distribución de las medias seguirá una distribución normal.
